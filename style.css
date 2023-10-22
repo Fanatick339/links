@@ -1,0 +1,15 @@
+*{
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    font-size: 32px;
+}
+body{
+    background: linear-gradient(180deg,#800080,#702963,#9F2B68);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
